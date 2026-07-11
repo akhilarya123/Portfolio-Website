@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#16211E"/>
+<path d="M -20 160 Q 46 181 86 150 Q 115 118 155 101 Q 176 131 216 92 Q 294 59 334 69 Q 368 97 408 75 Q 451 57 491 50 Q 563 43 603 3 Q 636 -34 676 63 " stroke="#16211E" stroke-width="3" fill="none" stroke-opacity="0.26"/>
+<path d="M -20 173 Q 12 172 52 134 Q 90 141 130 154 Q 155 191 195 202 Q 236 211 276 227 Q 328 209 368 198 Q 403 193 443 198 Q 468 228 508 258 Q 581 218 621 236 Q 699 269 739 213 " stroke="#7A9E97" stroke-width="3" fill="none" stroke-opacity="0.43"/>
+<path d="M -20 199 Q 32 211 72 163 Q 119 159 159 179 Q 206 159 246 176 Q 280 169 320 155 Q 392 120 432 197 Q 457 216 497 142 Q 557 168 597 117 Q 651 137 691 139 " stroke="#C9A227" stroke-width="3" fill="none" stroke-opacity="0.45"/>
+<path d="M -20 215 Q 43 183 83 180 Q 129 165 169 236 Q 229 252 269 256 Q 306 261 346 219 Q 393 254 433 254 Q 473 285 513 275 Q 545 276 585 330 Q 611 297 651 377 " stroke="#16211E" stroke-width="3" fill="none" stroke-opacity="0.2"/>
+<path d="M -20 157 Q 37 147 77 175 Q 104 157 144 157 Q 182 120 222 155 Q 244 125 284 140 Q 361 141 401 116 Q 422 112 462 97 Q 502 109 542 56 Q 617 95 657 116 " stroke="#7A9E97" stroke-width="3" fill="none" stroke-opacity="0.25"/>
+<path d="M -20 79 Q 12 95 52 133 Q 90 125 130 90 Q 174 70 214 106 Q 255 67 295 119 Q 338 137 378 64 Q 408 70 448 50 Q 486 22 526 63 Q 574 77 614 29 Q 692 3 732 -5 " stroke="#C9A227" stroke-width="1" fill="none" stroke-opacity="0.25"/>
+<circle cx="76" cy="397" r="3" fill="#C9A227" fill-opacity="0.6"/>
+<circle cx="173" cy="330" r="2" fill="#C9A227" fill-opacity="0.6"/>
+<circle cx="522" cy="318" r="3" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="56" cy="82" r="6" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="439" cy="353" r="3" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="226" cy="143" r="5" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="523" cy="38" r="3" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="474" cy="147" r="5" fill="#16211E" fill-opacity="0.6"/>
+</svg>

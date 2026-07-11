@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450">
+<rect width="600" height="450" fill="#1F3A34"/>
+<path d="M -20 108 Q 51 76 91 145 Q 127 168 167 100 Q 235 120 275 97 Q 336 83 376 85 Q 402 48 442 87 Q 519 96 559 133 Q 606 93 646 150 " stroke="#1F3A34" stroke-width="3" fill="none" stroke-opacity="0.35"/>
+<path d="M -20 268 Q 51 303 91 237 Q 171 237 211 190 Q 232 153 272 132 Q 333 93 373 141 Q 453 149 493 193 Q 556 207 596 160 Q 662 187 702 103 " stroke="#C9A227" stroke-width="1" fill="none" stroke-opacity="0.24"/>
+<path d="M -20 264 Q 35 268 75 233 Q 109 221 149 259 Q 217 256 257 257 Q 336 270 376 199 Q 449 230 489 256 Q 568 228 608 278 Q 639 275 679 298 " stroke="#7A9E97" stroke-width="1" fill="none" stroke-opacity="0.48"/>
+<path d="M -20 210 Q 45 224 85 214 Q 137 198 177 260 Q 216 295 256 236 Q 332 260 372 239 Q 417 203 457 254 Q 507 265 547 225 Q 593 207 633 250 Q 676 257 716 260 " stroke="#1F3A34" stroke-width="1" fill="none" stroke-opacity="0.46"/>
+<path d="M -20 264 Q 6 244 46 303 Q 99 313 139 350 Q 182 313 222 352 Q 272 351 312 297 Q 377 335 417 345 Q 474 355 514 359 Q 575 340 615 320 Q 667 281 707 289 " stroke="#C9A227" stroke-width="1" fill="none" stroke-opacity="0.38"/>
+<path d="M -20 316 Q 35 327 75 285 Q 127 318 167 269 Q 209 263 249 267 Q 311 304 351 277 Q 417 286 457 217 Q 527 242 567 266 Q 638 292 678 222 " stroke="#7A9E97" stroke-width="3" fill="none" stroke-opacity="0.47"/>
+<circle cx="456" cy="48" r="5" fill="#C9A227" fill-opacity="0.6"/>
+<circle cx="224" cy="278" r="5" fill="#C9A227" fill-opacity="0.6"/>
+<circle cx="385" cy="232" r="4" fill="#1F3A34" fill-opacity="0.6"/>
+<circle cx="571" cy="296" r="6" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="359" cy="254" r="6" fill="#1F3A34" fill-opacity="0.6"/>
+<circle cx="255" cy="345" r="3" fill="#7A9E97" fill-opacity="0.6"/>
+<circle cx="205" cy="66" r="6" fill="#C9A227" fill-opacity="0.6"/>
+<circle cx="53" cy="364" r="2" fill="#1F3A34" fill-opacity="0.6"/>
+<circle cx="37" cy="251" r="2" fill="#C9A227" fill-opacity="0.6"/>
+</svg>
